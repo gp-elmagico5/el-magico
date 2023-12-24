@@ -4,7 +4,7 @@ A front-end application for Milwaukee artist, GP El Magico, to showcase his tale
 
 ## Usage
 
-<a href="https://gp-elmagico.netlify.app/" target="_blank">Click here to check out the live site!</a>
+[Click here to check out the live site!](https://gp-elmagico.netlify.app/)
 
 
 ### Screenshots
