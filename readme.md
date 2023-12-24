@@ -4,7 +4,8 @@ A front-end application for Milwaukee artist, GP El Magico, to showcase his tale
 
 ## Usage
 
-[Click here to check out the live site!](https://gp-elmagico.netlify.app/)
+<a href="https://gp-elmagico.netlify.app/" target="_blank">Click here to check out the live site!</a>
+
 
 ### Screenshots
 
@@ -37,7 +38,8 @@ this app uses the folowing technologies:
 * [Youtube](https://www.youtube.com/) : embeded video
 
 * [SoundCloud](https://developers.soundcloud.com/) : embedded playlist
-* [EmailJS](https://www.emailjs.com/)
+
+* [EmailJS](https://www.emailjs.com/) : message forwarding
 
 * [Pexels](https://www.pexels.com/) : media
 
