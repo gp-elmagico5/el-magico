@@ -28,17 +28,20 @@ this app uses the folowing technologies:
 
 * JavaScript
 
-* [Bootstrap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/) : components
 
-* [Bootstrap Icons](https://icons.getbootstrap.com/)
+* [Bootstrap Icons](https://icons.getbootstrap.com/) : fonts
 
-* [Font awesome](https://fontawesome.com/)
+* [Font awesome](https://fontawesome.com/) : fonts
 
-* [Youtube](https://www.youtube.com/)
+* [Youtube](https://www.youtube.com/) : embeded video
 
-* [SoundCloud](https://developers.soundcloud.com/)
-
+* [SoundCloud](https://developers.soundcloud.com/) : embedded playlist
 * [EmailJS](https://www.emailjs.com/)
+
+* [Pexels](https://www.pexels.com/) : media
+
+* [InkScape](https://inkscape.org/) : logos
 
 ## Contribute
   
